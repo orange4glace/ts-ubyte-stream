@@ -4,6 +4,10 @@
   "description": "",
   "main": "dist/index.ts",
   "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orange4glace/ts-ubyte-stream.git"
+  },
   "scripts": {
     "build": "tsc",
     "test": "jest"
